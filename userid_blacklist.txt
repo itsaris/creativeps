@@ -1,0 +1,29 @@
+# UserID blacklist (satu ID per baris)
+# Upload file ini ke repo GitHub public, lalu isi CFG.blacklistRemoteUrl
+# dengan raw URL, contoh:
+# https://raw.githubusercontent.com/USER/REPO/main/userid_blacklist.txt
+
+225181
+250374
+1027092
+1008180
+1008178
+300216
+990795
+1031154
+1028195
+1031167
+62698
+1033027
+981300
+1022716
+1022756
+766599
+452620
+573299
+575057
+718392
+856207
+936898
+1021267
+1021266
